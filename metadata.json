@@ -1,0 +1,5 @@
+{
+  "name": "HeroPath: Comic Career Builder",
+  "description": "A comic-book styled career roadmap generator for tech professionals, using Gemini to analyze CVs and create personalized project-based progression plans.",
+  "requestFramePermissions": []
+}
